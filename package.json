@@ -1,0 +1,24 @@
+{
+  "name": "angularjs-todo-application",
+  "version": "1.0.0",
+  "description": "A todo Application using angular js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://prince1809:pk9081ad5147@github.com/prince1809/angularjs-todo-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince1809/angularjs-todo-application/issues"
+  },
+  "homepage": "https://github.com/prince1809/angularjs-todo-application#readme",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-resource": "^1.4.7",
+    "angular-route": "^1.4.7"
+  }
+}
